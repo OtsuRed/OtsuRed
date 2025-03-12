@@ -7,7 +7,7 @@ Welcome to Wonderland of OtsuRed
 <div>
 <div class="left_div" style="display: inline;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OyamTokuy&show_icons=true&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OtsuRed&show_icons=true&theme=transparent" />
   </a>
 </div>
 <div class="right_div" style="display: inline;">
